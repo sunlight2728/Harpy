@@ -63,7 +63,54 @@
 	- [Jaroslav_](https://github.com/jaroslavas)
 - **v3.4.3**
 	 - [Zaid M. Said](https://github.com/SentulAsia)
- - **v3.4.4**
+- **v3.4.4**
 	- [Vahan Margaryan](https://github.com/VahanMargaryan)
 - **v3.4.5**
  	- [Justus Kandzi](https://github.com/jkandzi)
+- **v3.4.8**
+  - [Mark Berner](https://github.com/mark2b)
+- **v3.4.10**
+  - [Josip Injic](https://github.com/jinjic)
+- **v4.0.3**
+  - [Nikolay Petrov](https://github.com/nikolay-petrov)
+- **v4.0.4**
+  - [Ilija Puaca](https://github.com/ilijapuaca)
+- **4.0.5**
+  - [Thi](https://github.com/thii)
+- **v4.0.6**
+  - [Kristaps Grinbergs](https://github.com/fassko)
+- **v4.0.7**
+  - [Luciano Nascimento](https://github.com/@lucianocn)
+- **v4.0.8**
+	- [Vladislav Jevremović](https://github.com/VladislavJevremovic)
+- **v4.0.9**
+	- [Konstantinos N.](https://github.com/kwstasna)
+- **v4.0.10**
+	- [Christoph Mantler](https://github.com/ChrisixFlash)
+- **v4.0.11**
+	- [Christoph Mantler](https://github.com/ChrisixFlash)
+	- [xedla](https://github.com/xedla)
+- **v4.1.1**
+  - [Txai Wieser](https://github.com/txaiwieser)
+  - [Ilija Puaca](https://github.com/ilijapuaca)
+- **4.1.2**
+  - [premyslvlcek](https://github.com/premyslvlcek)
+- **4.1.3**
+  - [Seyed Mojtaba Hosseini Zeidabadi](https://github.com/MojtabaHs)
+- **4.1.4**
+  - [Chanchal Raj](https://github.com/RajChanchal)
+- **4.1.5**
+  - [Ryoh Tsukahara](https://github.com/nixnoughtnothing)
+- **4.1.6**
+  - [Ryoh Tsukahara](https://github.com/nixnoughtnothing)
+- **4.1.8**
+  - [Dmytro Cheverda](https://github.com/dimacheverda)
+- **4.1.9**
+  - [wbison](https://github.com/wbison)
+	- [Attia Mo](https://github.com/AttiaMo)
+- **4.1.10**
+  - [liyangdal](https://github.com/liyangdal)
+- **4.1.12**
+  - [Tom Clark](https://github.com/iamtomcat)
+- **4.1.14**
+  - [Oleg](https://github.com/suzhaev)

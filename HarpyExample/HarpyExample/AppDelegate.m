@@ -21,14 +21,15 @@
     // Present Window before calling Harpy
     [self.window makeKeyAndVisible];
 
-    // Set the App ID for your app
-    [[Harpy sharedInstance] setAppID:@"376771144"]; // iTunes Connect Mobile App ID
-
     // Set the UIViewController that will present an instance of UIAlertController
     [[Harpy sharedInstance] setPresentingViewController:_window.rootViewController];
 
     // (Optional) Set the Delegate to track what a user clicked on, or to use a custom UI to present your message.
     [[Harpy sharedInstance] setDelegate:self];
+
+    // (Optional) When this is set, the alert will only show up if the current version has already been released for X days.
+    // By default, this value is set to 1 (day) to avoid an issue where Apple updates the JSON faster than the app binary propogates to the App Store.
+//    [[Harpy sharedInstance] setShowAlertAfterCurrentVersionHasBeenReleasedForDays:3];
 
     // (Optional) The tintColor for the alertController
 //    [[Harpy sharedInstance] setAlertControllerTintColor:[UIColor purpleColor]];
@@ -47,6 +48,9 @@
     /* (Optional) Overrides system language to predefined language.
      Please use the HarpyLanguage constants defined in Harpy.h. */
 //    [[Harpy sharedInstance] setForceLanguageLocalization:HarpyLanguageRussian];
+
+    // Turn on Debug statements
+    [[Harpy sharedInstance] setDebugEnabled:true];
 
     // Perform check for new version of your app
     [[Harpy sharedInstance] checkVersion];
